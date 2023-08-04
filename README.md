@@ -21,7 +21,7 @@ This project is built using the Flask framework, which allows for easy deploymen
 
 ## Technologies Used
 
-The Lyrics-Generator project incorporates the following technologies:
+The NeuroVigil project incorporates the following technologies:
 
 - Random Forest Classifier
 - Flask
@@ -32,7 +32,7 @@ The Lyrics-Generator project incorporates the following technologies:
 
 ## Installation
 
-To set up the Lyrics-Generator project locally, follow these steps:
+To set up the NeuroVigil project locally, follow these steps:
 
 1. Clone the repository:
 
