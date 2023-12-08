@@ -77,7 +77,7 @@ The main code for the Jupyter notebook can be found at `Stroke-final.ipynb`
 
 ## Contributing
 
-Contributions to the Lyrics-Generator project are welcome and encouraged. To contribute, please follow these steps:
+Contributions to the NeuroVigil project are welcome and encouraged. To contribute, please follow these steps:
 
 1. Fork the repository.
 
